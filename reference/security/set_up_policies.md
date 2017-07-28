@@ -15,7 +15,7 @@ lastupdated: "2017-05-11"
 # Configuring security policies
 {: #set_up_policies.md}
 
-**New Watson IoT Platform services are delivered secure out of the box by mandating that all devices connect over TLS**.  When an advanced security plan (ASP) is used for an organization, a security analyst can configure connection security policies and blacklists or whitelists. When a standard plan is used, the analyst can configure settings that have fewer options and cannot configure blacklists or whitelists.
+**When an organization is created, only secure connections using TLSv1.2 or TLSv1.1 are allowed**.  When an advanced security plan (ASP) is used for an organization, a security analyst can configure connection security policies and blacklists or whitelists. When a standard plan is used, the analyst can configure settings that have fewer options and cannot configure blacklists or whitelists.
 
 For information about using APIs to manage policies, see [IBM Watson IoT Platform Risk Management APIs ![External link icon](../../../../icons/launch-glyph.svg)](https://docs.internetofthings.ibmcloud.com/apis/swagger/v0002/riskmgmt.html){: new_window}.
 
