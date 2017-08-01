@@ -29,7 +29,7 @@ To access the {{site.data.keyword.iot_short_notm}} HTTP Messaging API documentat
 
 For information about client security and how to connect clients to gateway devices in {{site.data.keyword.iot_short_notm}}, see [Connecting applications, devices, and gateways to {{site.data.keyword.iot_short_notm}}](../reference/security/connect_devices_apps_gw.html).
 
-**Note that HTTP port 1883 is disabled by default,** see [Configuring security policies](../reference/security/set_up_policies.html#set_up_policies.md).
+**Note:** HTTP port 1883 is disabled by default. For information about changing the default setting, see [Configuring security policies](../reference/security/set_up_policies.html#set_up_policies.md).
 
 
 ## Publishing events
