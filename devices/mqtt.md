@@ -82,7 +82,7 @@ Devices can subscribe to command topics in the following format:
 {: codeblock}
 
 Where
- - **command_id** is the ID of the command, for example, ``update``. The command ID can be any string that is valid in the MQTT protocol.  If wildcards are not used, a device must use this string in its subscription topic to receive commands that are published on their topic.
+ - **command_id** is the ID of the command, for example, ``update``. The command ID can be any string that is valid in the MQTT protocol.  You can use wildcards(+) for command_id, if not a device must use this string in its subscription topic to receive commands that are published on their topic.
  - **format_string** is a string that defines the content type of the command payload so that the receiver of the command can determine how to parse the content. Common content type values include but are not limited to "json", "xml", "txt", and "csv". The value can be any string that is valid in MQTT.
 
 Devices cannot subscribe to events from other devices. A device receives commands that are published only to its own device.
