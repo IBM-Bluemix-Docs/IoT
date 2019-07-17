@@ -22,11 +22,8 @@ Internet of Things Platform
     {: .topicgroup}
     Recipes
         [Recipes for connecting your devices](https://developer.ibm.com/recipes/tutorials/category/internet-of-things-iot/)
-        [Watson IoT Platform Play organization](https://play.internetofthings.ibmcloud.com/)
-        [Connecting an Intel Galileo to the Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/connect-an-intel-galileo-to-the-internet-of-things-foundation-connect/)
         [Connecting a Raspberry Pi to Watson IoT Platform](https://developer.ibm.com/recipes/tutorials/raspberry-pi-4/)
     {: .navgroup-end}
-
 
     {: .navgroup id="reference"}
     reference/api.md

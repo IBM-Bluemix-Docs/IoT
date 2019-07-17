@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2019
-lastupdated: "2019-04-16"
+lastupdated: "2019-07-16"
 
 keywords: IoT device, Watson IoT Platform, Watson IoT Platform service plans
 
@@ -22,8 +22,8 @@ subcollection: iot-platform
 # Getting started tutorial
 {: #getting-started}
 
-<p>This {{site.data.keyword.cloud}} documentation collection pertains to the {{site.data.keyword.iot_full}} Lite pricing plan and includes basic getting started information, API references, and general troubleshooting information. 
-For the full {{site.data.keyword.iot_short_notm}} feature documentation, see the [{{site.data.keyword.iot_short_notm}} product documentation ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/support/knowledgecenter/SSQP8H/iot/overview/overview.html) on IBM Knowledge Center. More information about the various plans can be found in [{{site.data.keyword.iot_short_notm}} service plans](/docs/services/IoT?topic=iot-platform-plans_overview#plans_overview). 
+<p>This {{site.data.keyword.cloud}} documentation collection pertains to the {{site.data.keyword.iot_full}} Lite pricing plan and includes basic getting started information, API references, and general troubleshooting information. 
+For the full {{site.data.keyword.iot_short_notm}} feature documentation, see the [{{site.data.keyword.iot_short_notm}} product documentation ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/support/knowledgecenter/SSQP8H/iot/overview/overview.html) on IBM Knowledge Center. More information about the various plans can be found in [{{site.data.keyword.iot_short_notm}} service plans](/docs/services/IoT?topic=iot-platform-plans_overview#plans_overview). 
 </p>
 {: important}
 
@@ -49,10 +49,10 @@ For more information, see [Developing devices on {{site.data.keyword.iot_short_n
 
 Explore the following options depending on your situation:
 
- |  |   The service is deployed | The service is not deployed
- | -------------| ------------- | -------------
-  |**I have a device to connect** | Follow the process that is outlined in this topic. | Explore device connection in the [Play with {{site.data.keyword.iot_short_notm}} ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://discover-iot.eu-gb.mybluemix.net/?cm_mc_uid=44491599487314618721024&cm_mc_sid_50200000=1462798151#/play){:new_window}.
-  |**I do not have a device to connect** | [Simulate device data](/docs/services/IoT?topic=iot-platform-sim_device_data#sim_device_data) or [Connect your smartphone ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://discover-iot.eu-gb.mybluemix.net/?cm_mc_uid=44491599487314618721024&cm_mc_sid_50200000=1462798151#/play/device/smartphone){:new_window}. | Get started with [{{site.data.keyword.iot_short_notm}} Starter](https://cloud.ibm.com/docs/IoT-starter?topic=iot-starter-gettingstartedtemplate#gettingstartedtemplate){:new_window}.
+ | Device availability |   Next steps
+ | -------------| ------------- 
+  |**I have a device to connect** | Follow the process that is outlined in this topic. 
+  |**I do not have a device to connect** | [Simulate device data](/docs/services/IoT?topic=iot-platform-sim_device_data#sim_device_data). 
 
 
 
