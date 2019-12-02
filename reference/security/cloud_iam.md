@@ -2,7 +2,7 @@
 
 copyright:
   years: 2018, 2019
-lastupdated: "2019-04-22"
+lastupdated: "2019-11-19"
 
 keywords: Cloud IAM Authentication, IAM OAuth token, IBM Watson
 
@@ -28,7 +28,7 @@ For the full {{site.data.keyword.iot_short_notm}} feature documentation, see the
 
 {{site.data.keyword.iot_full}} APIs support the authentication and authorization of users by using {{site.data.keyword.iamshort}} (IAM).
 
-The {{site.data.keyword.iamlong}} authentication and authorization for {{site.data.keyword.iot_short_notm}} is available only as part of a limited beta program. Future updates might include changes that are incompatible with the current version of this feature. Try it out and [let us know what you think ![External link icon](../../../../icons/launch-glyph.svg)](https://developer.ibm.com/answers/smart-spaces/17/internet-of-things.html){: new_window}.
+The {{site.data.keyword.iamlong}} authentication and authorization for {{site.data.keyword.iot_short_notm}} is available only as part of a limited beta program. Future updates might include changes that are incompatible with the current version of this feature.
 {: important}
 
 {{site.data.keyword.iamshort}} is built into {{site.data.keyword.cloud_notm}} and is used for authenticating and authorizing administrative and developer users that need to configure and manage their {{site.data.keyword.IBM_notm}} services. Users who need access to the {{site.data.keyword.iot_short_notm}} dashboard are authenticated by using {{site.data.keyword.iamshort}}. The source of identity for {{site.data.keyword.iamshort}} can be registered IBMid users, or it can be a customer’s directory service that supports SAML.  

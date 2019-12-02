@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2019
-lastupdated: "2019-04-05"
+lastupdated: "2019-11-18"
 
 keywords: Lite plan, migrate, Watson IoT Platform
 
@@ -138,7 +138,9 @@ The [Data Management APIs ![External link icon](../../icons/launch-glyph.svg "Ex
 ## Enable any required extensions
 {: #extensions}
 
-You must recreate any extensions that you have enabled in the Lite platform, such as links to {{site.data.keyword.messagehub}}, {{site.data.keyword.cloudant_short_notm}}, and Jasper in the new org.
+You must recreate any extensions that you have enabled in the Lite platform, such as links to {{site.data.keyword.messagehub}} and {{site.data.keyword.cloudant_short_notm} in the new org.
+
+**Important:** The {{site.data.keyword.messagehub}} and {{site.data.keyword.cloudant_short_notm}} extensions feature has been updated to use [Data Store Connectors (DSC)](https://www.ibm.com/support/knowledgecenter/SSQP8H/iot/platform/reference/dsc/index.html){: new_window}. For more information about migrating your service bindings to DSC, see [Migrating your service bindings](https://www.ibm.com/support/knowledgecenter/SSQP8H/iot/platform/reference/dsc/migration.html){: new_window} in the {site.data.keyword.iot_short_notm}} documentation. 
 
 ## Migrating applications
 {: #application_migration}
