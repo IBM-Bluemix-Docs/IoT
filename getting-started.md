@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2019
-lastupdated: "2019-07-16"
+lastupdated: "2019-12-01"
 
 keywords: IoT device, Watson IoT Platform, Watson IoT Platform service plans
 
@@ -136,17 +136,19 @@ To connect a device to {{site.data.keyword.iot_short_notm}}:
       Where *org_id* is the ID of your {{site.data.keyword.iot_short_notm}} organization.
 
     * Port:
-      * 1883
+      * 1883 (disabled by default)
       * 8883 (encrypted)
       * 443 (websockets)
-    * Device ID: d:_org_id:device_type:device_id_
+    * Device ID: _org_id_:_device_type_:_device_id_
     * User name: use-token-auth
     * Password: _Authentication token_
-    * Event topic format: iot-2/evt/_event_id/fmt/format_string_
+    * Event topic format: iot-2/evt/_event_id_/fmt/_format_string_
 
       Where _event_id_ specifies the event name that's shown in {{site.data.keyword.iot_short_notm}}, and _format_string_ is the format of the event, such as JSON.
 
     * Message format: JSON
+
+    * Example payload: `{ "d": {"key1": "value1"} }`
 
   For more information, see [MQTT connectivity for devices ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/support/knowledgecenter/SSQP8H/iot/platform/devices/mqtt.html){:new_window}.
 
