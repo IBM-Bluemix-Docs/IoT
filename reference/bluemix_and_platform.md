@@ -2,7 +2,7 @@
 
 copyright:
   years: 2016, 2019
-lastupdated: "2019-04-16"
+lastupdated: "2019-11-18"
 
 keywords: Watson IoT Platform, IBM Cloud, Watson IoT Platform service plans
 
@@ -48,9 +48,10 @@ The {{site.data.keyword.iot_short_notm}} has provisions for a specified level of
 ### IoT Pricing Calculator
 For more information on the available {{site.data.keyword.iot_short_notm}} plans and pricing models:
 1. Go to the [IoT Pricing Calculator ![External link icon](../../../icons/launch-glyph.svg "External link icon")](https://cloud.ibm.com/estimator/review){: new_window}.  
-2. Click **Add** or **Configure** next to the Internet of Things Platform item.
-3. Select a **Pricing tier** and then enter estimated values for the amount of data that you plan to exchange, analyze on the cloud, and analyze on edge devices.  
-The price estimate for the selected tier and data load is displayed.
+2. Follow the instructions to add Internet of Things Platform from the catalog.
+3. Select a **Pricing plan** and then click **Add to estimate**. 
+4. If prompted, select number of plans to sunbscribe to and click **Calculate Cost**. 
+The price estimate for the selected plan is displayed.
 
 ### Current plan information
 1. On your {{site.data.keyword.cloud_notm}} dashboard, click the Internet of Things Platform tile for the  {{site.data.keyword.iot_short_notm}} organization for which you want current plan information.
