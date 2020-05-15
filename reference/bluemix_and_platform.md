@@ -6,7 +6,7 @@ lastupdated: "2019-11-18"
 
 keywords: Watson IoT Platform, IBM Cloud, Watson IoT Platform service plans
 
-subcollection: iot-platform
+subcollection: IoT
 
 ---
 
@@ -21,11 +21,11 @@ subcollection: iot-platform
 {: #iot-cloud-index}
 
 <p>This {{site.data.keyword.cloud}} documentation collection pertains to the {{site.data.keyword.iot_full}} Lite pricing plan and includes basic getting started information, API references, and general troubleshooting information. 
-For the full {{site.data.keyword.iot_short_notm}} feature documentation, see the [{{site.data.keyword.iot_short_notm}} product documentation ![External link icon](../../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/support/knowledgecenter/SSQP8H/iot/overview/overview.html) on {{site.data.keyword.IBM_notm}} Knowledge Center. More information about the various plans can be found in [{{site.data.keyword.iot_short_notm}} service plans](/docs/services/IoT?topic=iot-platform-plans_overview#plans_overview). 
+For the full {{site.data.keyword.iot_short_notm}} feature documentation, see the [{{site.data.keyword.iot_short_notm}} product documentation ![External link icon](../../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/support/knowledgecenter/SSQP8H/iot/overview/overview.html) on {{site.data.keyword.IBM_notm}} Knowledge Center. More information about the various plans can be found in [{{site.data.keyword.iot_short_notm}} service plans](/docs/services/IoT?topic=IoT-plans_overview#plans_overview). 
 </p>
 {: important}
 
-The {{site.data.keyword.iot_full}} is a service that is available in {{site.data.keyword.cloud_notm}}. You can access your {{site.data.keyword.iot_short_notm}} organization dashboard by using your {{site.data.keyword.cloud_notm}} dashboard. As an {{site.data.keyword.cloud_notm}} service, {{site.data.keyword.iot_short_notm}} can be integrated with other services that are hosted on {{site.data.keyword.cloud_notm}}. Details of specific third-party service integrations can be found in the [External Service Integrations](/docs/services/IoT?topic=iot-platform-ref-index#ref-index) topic.
+The {{site.data.keyword.iot_full}} is a service that is available in {{site.data.keyword.cloud_notm}}. You can access your {{site.data.keyword.iot_short_notm}} organization dashboard by using your {{site.data.keyword.cloud_notm}} dashboard. As an {{site.data.keyword.cloud_notm}} service, {{site.data.keyword.iot_short_notm}} can be integrated with other services that are hosted on {{site.data.keyword.cloud_notm}}. Details of specific third-party service integrations can be found in the [External Service Integrations](/docs/services/IoT?topic=IoT-ref-index#ref-index) topic.
 {:shortdesc}
 
 ## How the {{site.data.keyword.iot_short_notm}} works with {{site.data.keyword.cloud_notm}}

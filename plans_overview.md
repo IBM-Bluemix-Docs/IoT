@@ -6,7 +6,7 @@ lastupdated: "2019-11-18"
 
 keywords: Watson IoT Platform service plans, IoT Platform service plans, free Lite plan
 
-subcollection: iot-platform
+subcollection: IoT
 
 ---
 
@@ -53,4 +53,4 @@ If you are an existing customer and want to take advantage of the full [{{site.d
 
 To migrate plans, contact your {{site.data.keyword.IBM}} representative or raise a support ticket.
 
-To migrate from {{site.data.keyword.iot_short_notm}} Lite plan, or to migrate to other plans with only the essential configuration settings included, see the instructions in [Migrating {{site.data.keyword.iot_short_notm}} Lite to {{site.data.keyword.iot_short_notm}} Non-production or Production](/docs/services/IoT?topic=iot-platform-org_migration#org_migration).
+To migrate from {{site.data.keyword.iot_short_notm}} Lite plan, or to migrate to other plans with only the essential configuration settings included, see the instructions in [Migrating {{site.data.keyword.iot_short_notm}} Lite to {{site.data.keyword.iot_short_notm}} Non-production or Production](/docs/services/IoT?topic=IoT-org_migration#org_migration).
