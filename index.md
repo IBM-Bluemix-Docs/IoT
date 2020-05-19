@@ -23,7 +23,7 @@ subcollection: iot-platform
 {: #getting-started}
 
 <p>This {{site.data.keyword.cloud}} documentation collection pertains to the {{site.data.keyword.iot_full}} Lite pricing plan and includes basic getting started information, API references, and general troubleshooting information. 
-For the full {{site.data.keyword.iot_short_notm}} feature documentation, see the [{{site.data.keyword.iot_short_notm}} product documentation ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/support/knowledgecenter/SSQP8H/iot/overview/overview.html) on IBM Knowledge Center. More information about the various plans can be found in [{{site.data.keyword.iot_short_notm}} service plans](/docs/services/IoT?topic=iot-platform-plans_overview#plans_overview). 
+For the full {{site.data.keyword.iot_short_notm}} feature documentation, see the [{{site.data.keyword.iot_short_notm}} product documentation ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/support/knowledgecenter/SSQP8H/iot/overview/overview.html) on IBM Knowledge Center. More information about the various plans can be found in [{{site.data.keyword.iot_short_notm}} service plans](/docs/services/IoT?topic=IoT-plans_overview#plans_overview). 
 </p>
 {: important}
 
@@ -52,7 +52,7 @@ Explore the following options depending on your situation:
  | Device availability |   Next steps
  | -------------| ------------- 
   |**I have a device to connect** | Follow the process that is outlined in this topic. 
-  |**I do not have a device to connect** | [Simulate device data](/docs/services/IoT?topic=iot-platform-sim_device_data#sim_device_data). 
+  |**I do not have a device to connect** | [Simulate device data](/docs/services/IoT?topic=IoT-sim_device_data#sim_device_data). 
 
 
 
@@ -157,7 +157,7 @@ To connect a device to {{site.data.keyword.iot_short_notm}}:
 Extend the data analytics features by creating and connecting your own apps to consume device data.
 - For more information on how to connect specific device types to {{site.data.keyword.iot_short_notm}}, see [developerWorks recipes ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://developer.ibm.com/recipes/tutorials/category/internet-of-things-iot/){:new_window}.
 - Check out the [client libraries ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/support/knowledgecenter/SSQP8H/iot/platform/iot_platform_client_lib.html){:new_window} for tools to build code for integrating and connecting your devices and apps.
-- Explore the [{{site.data.keyword.iot_short_notm}} API Documentation](/docs/services/IoT?topic=iot-platform-api_overview#api_overview).
+- Explore the [{{site.data.keyword.iot_short_notm}} API Documentation](/docs/services/IoT?topic=IoT-api_overview#api_overview).
 - [Connect an {{site.data.keyword.cloudantfull}} service ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/support/knowledgecenter/SSQP8H/iot/platform/cloudant_connector.html){:new_window} to your {{site.data.keyword.iot_short_notm}} to store historical device data.
 - To take advantage of the full [{{site.data.keyword.iot_short_notm}} feature set ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/support/knowledgecenter/SSQP8H/iot/overview/overview.html){:new_window}, you can purchase one of the Connection and Analytics Service plans and then migrate your existing environment.
 

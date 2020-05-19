@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="iot-platform" category="iot" audience="service" arm="328" href="/docs/services/IoT/getting-started.html" path="services/IoT"}
+{: .toc subcollection="IoT" category="iot" audience="service" href="/docs/IoT/getting-started.html" path="IoT"}
 Internet of Things Platform
 
     {: .navgroup id="learn"}
