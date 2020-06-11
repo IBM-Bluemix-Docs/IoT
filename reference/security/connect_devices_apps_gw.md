@@ -6,7 +6,7 @@ lastupdated: "2019-11-18"
 
 keywords: Client connection URLs, MQTT protocol, device authentication tokens
 
-subcollection: iot-platform
+subcollection: IoT
 
 ---
 

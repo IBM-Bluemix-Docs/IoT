@@ -6,7 +6,7 @@ lastupdated: "2019-11-18"
 
 keywords: Watson IoT Platform, IBM Cloud, Watson IoT Platform service plans
 
-subcollection: iot-platform
+subcollection: IoT
 
 ---
 

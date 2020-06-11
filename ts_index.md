@@ -6,7 +6,7 @@ lastupdated: "2019-04-05"
 
 keywords: Watson IoT Platform, Watson IoT Platform organization, IoT Platform, troubleshooting
 
-subcollection: iot-platform
+subcollection: IoT
 
 ---
 

@@ -6,7 +6,7 @@ lastupdated: "2019-11-18"
 
 keywords: Watson IoT Platform service plans, IoT Platform service plans, free Lite plan
 
-subcollection: iot-platform
+subcollection: IoT
 
 ---
 

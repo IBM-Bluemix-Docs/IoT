@@ -6,7 +6,7 @@ lastupdated: "2019-04-05"
 
 keywords: user access, Add function, members dashboard
 
-subcollection: iot-platform
+subcollection: IoT
 
 ---
 

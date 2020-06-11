@@ -6,7 +6,7 @@ lastupdated: "2019-04-05"
 
 keywords: device simulator, devices
 
-subcollection: iot-platform
+subcollection: IoT
 
 ---
 

@@ -6,7 +6,7 @@ lastupdated: "2019-11-18"
 
 keywords: IoT Platform organization, Custom device management, IBM Watson
 
-subcollection: iot-platform
+subcollection: IoT
 
 ---
 

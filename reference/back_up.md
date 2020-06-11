@@ -7,7 +7,7 @@ lastupdated: "2019-04-05"
 
 keywords: Data backup Use, data backup strategy, records of device management requests
 
-subcollection: iot-platform
+subcollection: IoT
 
 ---
 

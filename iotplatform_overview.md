@@ -6,7 +6,7 @@ lastupdated: "2019-04-05"
 
 keywords: IoT devices, Watson IoT Platform, IBM Watson, powerful device management operations
 
-subcollection: iot-platform
+subcollection: IoT
 
 ---
 

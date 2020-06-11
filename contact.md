@@ -6,7 +6,7 @@ lastupdated: "2019-04-10"
 
 keywords: Watson IoT Platform, IBM Watson, IoT Platform
 
-subcollection: iot-platform
+subcollection: IoT
 
 ---
 

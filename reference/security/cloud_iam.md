@@ -6,7 +6,7 @@ lastupdated: "2019-11-19"
 
 keywords: Cloud IAM Authentication, IAM OAuth token, IBM Watson
 
-subcollection: iot-platform
+subcollection: IoT
 
 ---
 

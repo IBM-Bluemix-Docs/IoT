@@ -6,7 +6,7 @@ lastupdated: "2019-12-06"
 
 keywords: Lite plan, migrate, Watson IoT Platform
 
-subcollection: iot-platform
+subcollection: IoT
 
 ---
 

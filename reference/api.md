@@ -7,7 +7,7 @@ lastupdated: "2019-12-06"
 
 keywords: own organization, Extension HTTP APIs, API Use, AT&T Extension, Administer AT&T
 
-subcollection: iot-platform
+subcollection: IoT
 
 ---
 

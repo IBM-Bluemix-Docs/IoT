@@ -6,7 +6,7 @@ lastupdated: "2019-12-01"
 
 keywords: IoT device, Watson IoT Platform, Watson IoT Platform service plans
 
-subcollection: iot-platform
+subcollection: IoT
 
 ---
 
