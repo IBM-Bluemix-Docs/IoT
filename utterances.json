@@ -1,0 +1,40 @@
+{
+    "access-expiry-problem": [
+        "cannot log in to a Watson IoT Platform",
+        "can't login to IOTP",
+        "unable to access IOT platform",
+        "can't access IOTP",
+        "cannot connect to Lite IOTP",
+        "issue logging into IOTP",
+		    "log in issue with IOTP",
+        "trouble logging in to internet of things platform"
+    ],
+    "connection_problem": [
+        "connection to the Watson IoT Platform dropped",
+        "my IOTP connection just dropped",
+        "lost connection to IOTP",
+        "IOTP has just disconnected",
+		    "connectivity issue with IOTP",
+        "connection to IOT platform lost",
+        "keep losing connection to IOT platform",
+        "issues connecting to IOTP",
+        "connection issue with IOT platform"
+    ],
+    "disconnection_problem": [
+        "connection to IoT Platform intermittently drops ",
+        "IoT Platform service disconnects intermittently",
+        "IOTP disconnects intermittently",
+		    "intermittent disconnections with IOTP",
+        "IOTP unexpectedly disconnected again",
+        "keep losing connection to IOT platform intermittently"
+    ],
+    "mqtt_subscribe": [
+        "mqtt to watson IoT platform on android can't connect",
+        "connect to IBM Watson IoT using Paho mqtt javascript ",
+		    "Closed connection. The topic is not valid in IOTP",
+		    "error Closed connection. The topic is not valid in MQTT",
+        "mqtt subscription gets lost in bluemix container",
+        "publish events and subscribe using same auth-token on device",
+        "IoT code for publishing and subscibing topics"
+    ]
+}
