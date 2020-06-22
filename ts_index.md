@@ -77,3 +77,23 @@ It might be that when you connect, you are using a value for an MQTT ping option
 
 You can fix this problem by confirming that you have properly set the ping and KeepAlive parameters for your connection.   
 {: tsResolve}
+
+## Subscription to Device events fails using MQTT
+{: #mqtt_subscribe}
+
+When you subscribe to events for a device, the connection always closes so the subscription does not take effect.
+
+You see a message like the following on the dashboard:
+Closed connection. The topic is not valid: *format_string*. The topic does not match an authorized rule
+{: tsSymptoms}
+
+This error occurs if you try to subscribe using an incorrect Client ID format. 
+{: tsCauses}
+
+When you make an MQTT connection to subscribe to an events topic, you must 
+- Generate and use an API Key
+- Use a client ID format of `a:orgId:appId`
+{: tsResolve}
+
+Fix the ID format, then try again. For details, refer to [MQTT authentication](https://www.ibm.com/support/knowledgecenter/SSQP8H/iot/platform/applications/mqtt.html).
+
